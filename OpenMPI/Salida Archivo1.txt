@@ -1,0 +1,3 @@
+El minimo  del archivo Archivo1.txt es 1.340000 
+El maximo  del archivo Archivo1.txt es 435.209991 
+El promedio  del archivo Archivo1.txt es 162.343750 

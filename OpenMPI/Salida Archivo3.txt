@@ -1,0 +1,3 @@
+El minimo  del archivo Archivo3.txt es 1.021000 
+El maximo  del archivo Archivo3.txt es 3254.000000 
+El promedio  del archivo Archivo3.txt es 566.888489 

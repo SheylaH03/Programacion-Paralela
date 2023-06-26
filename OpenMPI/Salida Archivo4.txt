@@ -1,0 +1,3 @@
+El minimo  del archivo Archivo4.txt es 10.154000 
+El maximo  del archivo Archivo4.txt es 543.000000 
+El promedio  del archivo Archivo4.txt es 127.671005 
